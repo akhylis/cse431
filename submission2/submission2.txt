@@ -7,6 +7,6 @@ Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber
 
 
 link to the paper:
-https://ieeexplore.ieee.org/abstract/document/10039597
+https://theses.hal.science/tel-03884481/
 
 

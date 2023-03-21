@@ -1,0 +1,12 @@
+Title:
+Analysis and Control of Online Interactions Through Neural Natural Language Processing
+
+
+Authors:
+Thomas Davidson, Dana Warmsley, Michael Macy, and Ingmar Weber
+
+
+link to the paper:
+https://ieeexplore.ieee.org/abstract/document/10039597
+
+

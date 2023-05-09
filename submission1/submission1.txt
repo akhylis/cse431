@@ -1,19 +1,1 @@
-Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/read/yhhgkrrhnpfn
 
-Link to unlisted YouTube video:
-https://youtu.be/tqnNy3ExdTA
-
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1JlYUZH7vcm5N8hm8oCcpU4DcXtUfABeG1KYDAUpff8Y/edit?usp=sharing
-
-Project title:
-Utilizing NLP and Neural Networks for Effective Detection of Inappropriate Comments
-
-Group Number:
-03
-
-Group Members:
-18101592 Adnan Karim
-18101030 F M Tahoshin Alam
-19201105 Sadia Afreen

@@ -10,8 +10,6 @@ Conference submitted paper / paper submission / login Link:
 Paper title:
 Utilizing NLP and Neural Networks for Effective Detection of Inappropriate Comments
 
-Paper presentation (anyone can view without login):
-
 
 Paper submission date (to workshop/conference):
 

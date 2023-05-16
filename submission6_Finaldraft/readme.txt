@@ -12,7 +12,8 @@ Paper title:
 Utilizing NLP and Neural Networks for Effective Detection of Inappropriate Comments
 
 
-Paper submission date (to workshop/conferenchttps://cmt3.research.microsoft.com/ASYU2023
+Paper submission date (to workshop/conference):
+http//cmt3.research.microsoft.com/ASYU2023
 
 
 Paper submission ID: (received) from conference/workshop

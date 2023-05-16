@@ -13,7 +13,7 @@ Utilizing NLP and Neural Networks for Effective Detection of Inappropriate Comme
 
 
 Paper submission date (to workshop/conference):
-http//cmt3.research.microsoft.com/ASYU2023
+https://cmt3.research.microsoft.com/ASYU2023
 
 
 Paper submission ID: (received) from conference/workshop
